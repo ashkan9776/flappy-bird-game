@@ -1,4 +1,4 @@
-# flutter_application_1
+# Flappy Bird Game with Flame
 
 A new Flutter project.
 
